@@ -1,3 +1,3 @@
 # django_pagination
 
-![screenshot](./screenshot.jpg)
+<img src="https://github.com/anferubu/django_pagination/blob/main/screenshot.JPG" width="650">
